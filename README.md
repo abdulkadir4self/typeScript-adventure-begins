@@ -10,10 +10,6 @@ This is a TypeScript project scaffolded using [Vite](https://vitejs.dev/). Vite 
 - **Hot Module Replacement (HMR):** Instant feedback in development.
 - **Fast Builds:** Optimized for performance.
 
-## Getting Started
-
-Follow these instructions to set up and run the project on your local machine.
-
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher recommended)
